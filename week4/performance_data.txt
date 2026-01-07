@@ -1,0 +1,4 @@
+# Method Time(s) Speedup Efficiency
+Sequential 0.3666 1.0000 1.0000
+Parallel 0.2972 1.2337 0.3084
+Distributed 0.3346 1.0958 0.2739
