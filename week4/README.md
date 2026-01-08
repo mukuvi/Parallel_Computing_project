@@ -1,7 +1,7 @@
 # Week 4: Integration & Acceleration
 
 ## Overview
-This final week integrates all components from previous weeks into a comprehensive parallel and distributed file processing system. It provides performance comparisons, visualization, and a complete analysis of the parallel computing implementation.
+This final week integrates all components from previous weeks into a comprehensive parallel and distributed file processing system. It provides performance comparisons, visualization and a complete analysis of the parallel computing implementation.
 
 ## Implementation Details
 - Integrates sequential, OpenMP, and distributed simulation components

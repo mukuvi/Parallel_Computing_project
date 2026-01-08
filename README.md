@@ -58,7 +58,7 @@ cpp_parallel_project/
 ## Technologies Used
 - **C++17**: Core programming language
 - **OpenMP**: Shared-memory parallelism
-- **Standard Library**: Containers, algorithms, regex
+- **Standard Library**: Containers, algorithms and regex
 - **GNU Make**: Build system
 
 ## Building and Running
