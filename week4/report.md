@@ -1,7 +1,7 @@
 # Final Project Report: Parallel and Distributed File Processing System
 
 ## Project Overview
-This project implements a comprehensive parallel and distributed file processing system in C++, demonstrating various parallel programming techniques for text analysis. The system processes multiple text files to count word frequencies using sequential, shared-memory parallel, and distributed simulation approaches.
+This project implements a comprehensive parallel and distributed file processing system in C++, demonstrating various parallel programming techniques for text analysis. The system processes multiple text files to count word frequencies using sequential, shared-memory parallel and distributed simulation approaches.
 
 ## Implementation Details
 
