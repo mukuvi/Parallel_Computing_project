@@ -15,8 +15,7 @@ void output_performance_data(const vector<pair<string, double>>& results, const 
     }
 
     file << "# Method Time(s) Speedup Efficiency" << endl;
-    double baseline = results[0].second;
-     // Sequential time
+    double baseline = results[0].second; // Sequential time
 
     for (size_t i = 0; i < results.size(); ++i) {
         const auto& result = results[i];
